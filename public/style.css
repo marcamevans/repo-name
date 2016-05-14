@@ -1,5 +1,5 @@
 .profile {
-    background: img src="background image.jpg"/> no-repeat center fixed;
+    background: <img src="background image.jpg"/> no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
