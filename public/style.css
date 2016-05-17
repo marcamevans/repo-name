@@ -1,12 +1,8 @@
- .profile h1 {
+ .profile {
    font-size: 16px;
    text-transform: uppercase;
      }
- .profile img {
-   width: 100px;
-   height: 100px;
-   border-radius: 100px;
-    }
+
 html {
     background: url('http://farm2.staticflickr.com/1100/1471214453_f7677b7816_b.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
