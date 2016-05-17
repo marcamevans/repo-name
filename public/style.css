@@ -1,7 +1,8 @@
  .profile {
    font-size: 16px;
    text-transform: uppercase;
-     }
+   text-align: center;
+}
 
 html {
     background: url('http://farm2.staticflickr.com/1100/1471214453_f7677b7816_b.jpg') no-repeat center fixed;
