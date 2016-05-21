@@ -5,9 +5,9 @@
 }
 
 html {
-    background: <img src="background-image.jpg" /> no-repeat center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-     }
+background: url('https://static.pexels.com/photos/72509/pexels-photo-72509.jpeg') no-repeat center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
